@@ -1,0 +1,8 @@
+{
+  "name": "React tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "38c1f170"
+}
